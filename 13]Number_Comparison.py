@@ -1,8 +1,9 @@
-a = int(int("Enter a = "))
+a = int(inut("Enter a = "))
 b = int(input("Enter b = "))
 if a > b:
     print("a is greater")
 elif b>a :
     print("b is greater")
 else :
+
     print("Both are equal")
